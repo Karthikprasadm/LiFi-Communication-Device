@@ -13,6 +13,7 @@ LiFi (Light Fidelity) is a wireless communication technology that uses light to 
 - **LDR Sensor Module**: Detects light intensity changes for data reception.
 - **16x2 LCD Display**: Displays received messages.
 - **Wiring**: Connect components as per the pin configuration in the Arduino code.
+- **Resistor**: 1k-ohm
 
 ### Wiring Example
 
