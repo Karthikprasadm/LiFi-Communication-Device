@@ -25,7 +25,7 @@ LiFi (Light Fidelity) is a wireless communication technology that uses light to 
 
 ## Software Components
 - **Arduino Code**: Provided in `lifi_receiver.ino`. Reads LDR input, decodes the signal, and displays messages on the LCD.
-- **Android APK**: `LiFiProject (2).apk` is a mobile app to send messages via LiFi transmitter hardware (not included here).
+- **Android APK**: `LiFi_Companion2.apk` is a mobile app to send messages via LiFi transmitter hardware (not included here).
 
 ## Setup Instructions
 ### Hardware
@@ -34,7 +34,7 @@ LiFi (Light Fidelity) is a wireless communication technology that uses light to 
 3. Power the Arduino and ensure the LCD and LDR are connected properly.
 
 ### Software
-1. Install the APK (`LiFiProject (2).apk`) on your Android device:
+1. Install the APK (`LiFi_Companion2.apk`) on your Android device:
     - Transfer the APK to your device.
     - Enable installation from unknown sources in your device settings.
     - Tap the APK to install.
@@ -64,7 +64,7 @@ This image shows the actual hardware prototype as assembled for the LiFi communi
 
 ## Project Files
 - `lifi_receiver.ino`: Arduino code for the LiFi receiver
-- `LiFiProject (2).apk`: Android application for sending messages via LiFi
+- `LiFi_Companion2.apk`: Android application for sending messages via LiFi
 - `LIFI.pptx`: Project presentation
 
 ## Credits
